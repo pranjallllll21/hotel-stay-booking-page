@@ -1,0 +1,60 @@
+*{
+    padding:0;
+    margin: 0;
+    color: aliceblue;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    padding: 10px 20px;
+    margin-top: 5px;
+    background-color:#0056b3 ;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+.button:hover {
+    background-color: #2364a8;
+}
+#logo{
+    color: hsl(202, 94%, 49%) ;
+    font-size: 25px;
+}
+a{
+   margin-right: 180px;
+   text-decoration: none;
+   font-size: 20px;
+}
+footer{
+   background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+.contentbox{
+    height: 397px;
+    width: 725px;
+    border: 2px, solid,black;
+    display: inline-block;
+
+}
+#content{
+    height: 815px;
+}
+#ho1{
+    background-image: url("hotel1.jpeg");
+    background-size: cover;
+}
+#ho2{
+    background-image: url("pic1.jpeg");
+    background-size: cover;
+}
+#ho3{
+    background-image: url("pic2.jpeg");
+    background-size: cover;
+}
+#ho4{
+    background-image: url("pic3.jpeg");
+    background-size: cover;
+}
